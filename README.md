@@ -37,6 +37,9 @@ but `npm install` will still test your patience.
    <a href="https://t.me/bibe_k" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
   </a>
+    <a href="https://discord.gg/y7G86m2j" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
